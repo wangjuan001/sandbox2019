@@ -3,4 +3,5 @@ testing github features in BMMB554
 
 ------
 
-This is a place where I will be putting all my Colaboratory Notebooks
+for course BMMB554
+
